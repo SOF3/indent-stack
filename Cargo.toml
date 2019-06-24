@@ -1,0 +1,10 @@
+[package]
+name = "indent-stack"
+version = "0.1.0"
+authors = ["chankyin <chankyin1970@gmail.com>"]
+edition = "2018"
+description = "Library for parsing off-side syntax like YAML or Python"
+homepage = "https://github.com/chankyin/indent-stack"
+repository = "https://github.com/chankyin/indent-stack.git"
+categories = ["parsing"]
+license = "Apache-2.0"
